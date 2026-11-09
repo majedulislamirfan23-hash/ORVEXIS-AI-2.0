@@ -1,0 +1,6 @@
+{
+  "name": "ORVEXIS AI",
+  "description": "Luxury futuristic AI operating platform and design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
